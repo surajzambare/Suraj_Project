@@ -1,0 +1,10 @@
+package com.suraj.github;
+
+public class Demo3 {
+
+	public static void main(String[] args) {
+		System.out.println("Project Loaded Successfully");
+
+	}
+
+}
